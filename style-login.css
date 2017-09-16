@@ -1,0 +1,140 @@
+div {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.boogle-img {
+  text-align: center;
+}
+#boogle {
+  width: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+ .one {
+   font-size: 14px;
+   text-align: center;
+   font-family: "Arial";
+   font-weight: bold;
+ }
+ #text {
+   border: none;
+   display: block;
+   width: 300px;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 15px;
+   margin-bottom: 5px;
+   font-size: 12px;
+ }
+
+ .box {
+   background-color: #D3D3D3;
+   width: 300px;
+   height: 300px;
+   border-radius: 3px;
+   box-shadow: 8px 5px 13px #888888;
+ }
+
+ .kvadrat {
+   background-color: #666666;
+   width: 150px;
+   height: 150px;
+   position: relative;
+   top: 15px;
+   border-radius: 100px;
+ }
+.profil-img {
+  position: relative;
+  left: 10px;
+  margin-top: 15px;
+}
+#profil {
+  width: 130px;
+  margin-top: 5px;
+}
+
+form {
+  text-align: center;
+  margin-top: 35px;
+}
+#input-box {
+  height: 30px;
+  width: 180px;
+  text-align: center;
+}
+
+.button {
+  width: 180px;
+  text-align: center;
+  left: 60px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  background-color: blue;
+}
+#next {
+  height: 30px;
+  width: 180px;
+}
+.p-help {
+  width: 300px;
+  height: 20px;
+  background-color: #B0C4DE;
+  margin-bottom: 50px;
+  text-align: right;
+  position: relative;
+  bottom: 4px;
+}
+#help {
+  border: none;
+  font-size: 10px;
+  color: #0276FD;
+  position: relative;
+  bottom: 3px;
+}
+
+#new {
+  border: none;
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 25px;
+  font-size: 15px;
+}
+
+
+/*footer doesn't work the way I want it*/
+.footer {
+  background-color: #D3D3D3;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+/*margin-left: auto; doesn't work...*/
+#right {
+  /*background-color: green;*/
+  display: inline-block;
+  text-align: right;
+  margin-left: 1000px;
+  width: 150px;
+
+}
+
+#left {
+  /*background-color: yellow;*/
+  display: inline-block;
+  width: 200px;
+  text-align: left;
+}
+
+p {
+  display: inline-block;
+  border-left: 1px solid;
+  font-family: "Arial";
+  font-size: 12px;
+  padding-right: 3px;
+  padding-left: 1px;
+}

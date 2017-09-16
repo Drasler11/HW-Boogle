@@ -1,0 +1,75 @@
+.layout {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.header {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#login {
+  width: 60px;
+  font-size: 12px;
+  color: #0276FD;
+  border-left: 1px solid;
+  margin: 5px;
+  padding: 2px;
+}
+
+.boogle {
+  text-align: center;
+}
+img {
+  width: 350px;
+  height: auto;
+  margin-top: 150px;
+}
+
+.search {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+input {
+  width: 450px;
+  text-align: center;
+}
+
+.gumba {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  margin: 5px;
+}
+button {
+  width: 130px;
+}
+
+.footer {
+  display: inline-block;
+  background-color: gray;
+  /* Kako spremeniti barvo footerja? Ker to ne dela. */
+}
+.footer-left {
+  position: absolute;
+  left: 10px;
+  bottom: 0;
+}
+.footer-right {
+  position: absolute;
+  right: 10px;
+  bottom: 0;
+}
+
+p {
+  display: inline-block;
+  border-left: 1px solid;
+  margin: 5px;
+  padding: 2px;
+  font-family: "Arial";
+  font-size: 12px;
+}
